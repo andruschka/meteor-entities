@@ -1,0 +1,1 @@
+Entities = Npm.require('entities');
